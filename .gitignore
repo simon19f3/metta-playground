@@ -1,5 +1,4 @@
 node_modules/
 target/
 dist/
-pkg/
 .vercel/
